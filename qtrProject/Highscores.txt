@@ -1,0 +1,5 @@
+abc	315
+def	295
+ghi	214
+jkl	111
+mno	43
